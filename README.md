@@ -1,2 +1,2 @@
 # dotnet-who-hash-essentials
-Essential DotNet Extensions and Addons
+Essential dotnet Extensions and Addons
